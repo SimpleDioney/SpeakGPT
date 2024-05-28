@@ -8,9 +8,9 @@
 
 - **Python**: Versão 3.6 ou superior.
 - **Bibliotecas Python**:
-  - `Selenium`: 
-  - `pyttsx3` (BeautifulSoup4): Para parsing de HTML.
-  - `speech_recognition`: Para estilização de texto no terminal.
+  - `Selenium`: Para manipular o navegador.
+  - `pyttsx3`: Para converter texto em voz.
+  - `speech_recognition`: Para reconhecimento de voz.
   - Você também precisará baixar o `driver` do navegador adequado para o Selenium. Neste caso, foi utilizado o Microsoft Edge, então você precisa do `msedgedriver.exe`.
 
 
