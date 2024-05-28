@@ -12,7 +12,7 @@ import speech_recognition as sr
 driver_path = './msedgedriver.exe'
 service = EdgeService(executable_path=driver_path)
 options = webdriver.EdgeOptions()
-options.add_argument("user-data-dir=C:/Users/dupla/AppData/Local/Microsoft/Edge/User Data/Selenium")  # Caminho para um perfil do navegador separado
+options.add_argument("user-data-dir=C:/Users/SEU_USUARIO/AppData/Local/Microsoft/Edge/User Data/Selenium")  # Caminho para um perfil do navegador separado
 
 # Configurações para evitar a detecção de automação
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
