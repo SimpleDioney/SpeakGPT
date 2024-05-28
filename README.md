@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## Contribuições
 
-Contribuições para melhorar GitBrowse são sempre bem-vindas! Para contribuir:
+Contribuições para melhorar SpeakGPT são sempre bem-vindas! Para contribuir:
 
 1. Faça um fork do repositório.
 2. Crie um novo branch para sua feature ou correção:
